@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="pt-br" class="baixacnpj-root">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <script src="https://kit.fontawesome.com/34e911297d.js" crossorigin="anonymous"></script>
+
+                                <!-- Logo -->
+    <link rel="icon" type="image/png" href="/src/img/LOGO Z.png">
+
+                            <!-- Font -->
+                            <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    
+
+                    <!-- Bootstrap Stylesheet -->
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" />
+
+        <!-- Customized Stylesheet -->
+    <link rel="stylesheet" href="./style/styleprincipal.css">
+
+            <!-- Library Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+
+    <title>Baixa CPNJ</title>
+</head>
+
+<body>
+    <!-- Inicio do cabeçalho -->
+    <header class="header fixed-top bigger px-5">
+        <div class="audote-container">
+            <div class="header-container">
+                <div class="logo-nav-container">
+                    
+                    <div class="logo light">
+                        
+                        <a href="#">Baixa CNPJ </a>  <img class="logo-1" src="/src/img/LOGO Z.png" style="width: 100px; height: 100px;" id="other-1">
+                        
+                       
+                    </div>
+                    <!-- <div class="nav-trigger navbar white">
+                        <a role="button" data-bs-toggle="offcanvas" data-bs-target="#mobileNav"
+                            aria-controls="mobileNav">
+                            <div class="line-1"></div>
+                            <div class="line-2"></div>
+                            <div class="line-3"></div>
+                        </a>
+                       
+                        <div class="offcanvas offcanvas-start nav-mobile-container" tabindex="-1" id="mobileNav" style="background-image: url('src/img/texture-black2.jpg');">
+                            
+                         <div class="offcanvas-header" style="z-index: 1;">
+                               
+                                <div class="logo">
+                                    <a href="index.html"><span style="color: #f2a312">Zaion Soluctions</span></a>
+                                </div>
+                                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
+                                    aria-label="Close"></button>
+                            </div>
+                           
+                                    
+                            <div class="offcanvas-body" style="z-index: 2;">
+                               
+                                <nav class="nav-mobile">
+                                    <ul class="navbar-nav justify-content-end flex-grow-1">
+                                        <li class="nav-item">
+                                            <a role="button" class="nav-link" href="#">Pagina Inicial</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a role="button" class="nav-link" href="#">Quem somos</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a role="button" class="nav-link" href="https://wa.me/message/IOUMZNRVCXMRO1">Limpe Seu Nome Agora</a>
+                                        </li>
+                                         <li class="nav-item">
+                                            <a role="button" class="nav-link" href="#selection-10">Beneficios de R$10.000 a R$30.000</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a role="button" class="nav-link" href="#selection-30">Beneficios de R$30.000 a R$50.000</a>
+                                        </li> -->
+                                        <!-- <li class="nav-item">
+                                            <a role="button" class="nav-link" href="#">Parcerias</a>
+                                        </li> -->
+<!--                                        
+                                        <li class="nav-item">
+                                         
+                                    </ul>
+                                </nav>
+                                 
+                            
+
+                                    
+                                
+                            </div>
+                        </div>
+                            </div>
+                    </div>
+                                
+                        </div>
+                    </div>
+                </div>  -->
+                <!-- <div class="search-container d-none d-xl-block">
+                    <div class="hero-form hero-form-round">
+                        <form class="row gx-3 align-items-center">
+                            <div class="col">
+                                <input type="text" class="form-control" placeholder="Pesquisar contéudo" name="search" />
+                            </div>
+                            <div class="col-auto">
+                                <button>
+                                    <span class="fa fa-search"></span>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div> -->
+                <nav class="user-nav d-none d-sm-flex">
+                 
+                </nav>
+            </div>
+        </div>
+    </header>
+    <!-- Fim do cabeçalho -->
+
+    <!-- Banner inicial -->
+    <section class="hero hero-bg cover" style="background-image: url(src/img/hero-bg-2.jpg); position: relative; height: 400px; overflow: hidden;">
+        <!-- <div class="slideshow" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+            <div class="slideshow-image" style="background-image: url('/src/img/group1.jpg')"></div>
+            <div class="slideshow-image" style="background-image: url('/src/img/group2.jpg')"></div>
+            <div class="slideshow-image" style="background-image: url('/src/img/groip.jpg')"></div>
+            <div class="slideshow-image" style="background-image: url('/src/img/group4.jpg')"></div>
+        </div> -->
+        <div class="hero-opacity"></div>
+      
+        </div>
+       
+        <div class="hero-caption" style="position: relative; z-index: 6;">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-xl-9 col-xxl-8">
+                        <h1 class="text-dark text-center">
+                    
+                        <div class="mt-3 mt-lg-4 text-center">
+                            <i class="bi bi-camera-video"></i>
+                            <a href="#" class="btn rounded-pill section-cta" id="btnQueroConhecer" style="background-color: #f2a312 !important;"> <span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-camera-video" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M0 5a2 2 0 0 1 2-2h7.5a2 2 0 0 1 1.983 1.738l3.11-1.382A1 1 0 0 1 16 4.269v7.462a1 1 0 0 1-1.406.913l-3.111-1.382A2 2 0 0 1 9.5 13H2a2 2 0 0 1-2-2zm11.5 5.175 3.5 1.556V4.269l-3.5 1.556zM2 4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h7.5a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1z"/>
+                              </svg>
+                        Quero conhecer</span></a>
+                        </div>
+
+                        <div class="mt-3 mt-lg-4 text-center">
+                            <i class="bi bi-camera-video"></i>
+                            <a href="https://wa.me/message/IOUMZNRVCXMRO1" class="btn rounded-pill section-cta" id="btnQueroConhecer" style="background-color: #f2a312 !important;"> <span> <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="16" height="16" viewBox="0 0 50 50">
+                                <path d="M 25 2 C 12.309534 2 2 12.309534 2 25 C 2 29.079097 3.1186875 32.88588 4.984375 36.208984 L 2.0371094 46.730469 A 1.0001 1.0001 0 0 0 3.2402344 47.970703 L 14.210938 45.251953 C 17.434629 46.972929 21.092591 48 25 48 C 37.690466 48 48 37.690466 48 25 C 48 12.309534 37.690466 2 25 2 z M 25 4 C 36.609534 4 46 13.390466 46 25 C 46 36.609534 36.609534 46 25 46 C 21.278025 46 17.792121 45.029635 14.761719 43.333984 A 1.0001 1.0001 0 0 0 14.033203 43.236328 L 4.4257812 45.617188 L 7.0019531 36.425781 A 1.0001 1.0001 0 0 0 6.9023438 35.646484 C 5.0606869 32.523592 4 28.890107 4 25 C 4 13.390466 13.390466 4 25 4 z M 16.642578 13 C 16.001539 13 15.086045 13.23849 14.333984 14.048828 C 13.882268 14.535548 12 16.369511 12 19.59375 C 12 22.955271 14.331391 25.855848 14.613281 26.228516 L 14.615234 26.228516 L 14.615234 26.230469 C 14.588494 26.195329 14.973031 26.752191 15.486328 27.419922 C 15.999626 28.087653 16.717405 28.96464 17.619141 29.914062 C 19.422612 31.812909 21.958282 34.007419 25.105469 35.349609 C 26.554789 35.966779 27.698179 36.339417 28.564453 36.611328 C 30.169845 37.115426 31.632073 37.038799 32.730469 36.876953 C 33.55263 36.755876 34.456878 36.361114 35.351562 35.794922 C 36.246248 35.22873 37.12309 34.524722 37.509766 33.455078 C 37.786772 32.688244 37.927591 31.979598 37.978516 31.396484 C 38.003976 31.104927 38.007211 30.847602 37.988281 30.609375 C 37.969311 30.371148 37.989581 30.188664 37.767578 29.824219 C 37.302009 29.059804 36.774753 29.039853 36.224609 28.767578 C 35.918939 28.616297 35.048661 28.191329 34.175781 27.775391 C 33.303883 27.35992 32.54892 26.991953 32.083984 26.826172 C 31.790239 26.720488 31.431556 26.568352 30.914062 26.626953 C 30.396569 26.685553 29.88546 27.058933 29.587891 27.5 C 29.305837 27.918069 28.170387 29.258349 27.824219 29.652344 C 27.819619 29.649544 27.849659 29.663383 27.712891 29.595703 C 27.284761 29.383815 26.761157 29.203652 25.986328 28.794922 C 25.2115 28.386192 24.242255 27.782635 23.181641 26.847656 L 23.181641 26.845703 C 21.603029 25.455949 20.497272 23.711106 20.148438 23.125 C 20.171937 23.09704 20.145643 23.130901 20.195312 23.082031 L 20.197266 23.080078 C 20.553781 22.728924 20.869739 22.309521 21.136719 22.001953 C 21.515257 21.565866 21.68231 21.181437 21.863281 20.822266 C 22.223954 20.10644 22.02313 19.318742 21.814453 18.904297 L 21.814453 18.902344 C 21.828863 18.931014 21.701572 18.650157 21.564453 18.326172 C 21.426943 18.001263 21.251663 17.580039 21.064453 17.130859 C 20.690033 16.232501 20.272027 15.224912 20.023438 14.634766 L 20.023438 14.632812 C 19.730591 13.937684 19.334395 13.436908 18.816406 13.195312 C 18.298417 12.953717 17.840778 13.022402 17.822266 13.021484 L 17.820312 13.021484 C 17.450668 13.004432 17.045038 13 16.642578 13 z M 16.642578 15 C 17.028118 15 17.408214 15.004701 17.726562 15.019531 C 18.054056 15.035851 18.033687 15.037192 17.970703 15.007812 C 17.906713 14.977972 17.993533 14.968282 18.179688 15.410156 C 18.423098 15.98801 18.84317 16.999249 19.21875 17.900391 C 19.40654 18.350961 19.582292 18.773816 19.722656 19.105469 C 19.863021 19.437122 19.939077 19.622295 20.027344 19.798828 L 20.027344 19.800781 L 20.029297 19.802734 C 20.115837 19.973483 20.108185 19.864164 20.078125 19.923828 C 19.867096 20.342656 19.838461 20.445493 19.625 20.691406 C 19.29998 21.065838 18.968453 21.483404 18.792969 21.65625 C 18.639439 21.80707 18.36242 22.042032 18.189453 22.501953 C 18.016221 22.962578 18.097073 23.59457 18.375 24.066406 C 18.745032 24.6946 19.964406 26.679307 21.859375 28.347656 C 23.05276 29.399678 24.164563 30.095933 25.052734 30.564453 C 25.940906 31.032973 26.664301 31.306607 26.826172 31.386719 C 27.210549 31.576953 27.630655 31.72467 28.119141 31.666016 C 28.607627 31.607366 29.02878 31.310979 29.296875 31.007812 L 29.298828 31.005859 C 29.655629 30.601347 30.715848 29.390728 31.224609 28.644531 C 31.246169 28.652131 31.239109 28.646231 31.408203 28.707031 L 31.408203 28.708984 L 31.410156 28.708984 C 31.487356 28.736474 32.454286 29.169267 33.316406 29.580078 C 34.178526 29.990889 35.053561 30.417875 35.337891 30.558594 C 35.748225 30.761674 35.942113 30.893881 35.992188 30.894531 C 35.995572 30.982516 35.998992 31.07786 35.986328 31.222656 C 35.951258 31.624292 35.8439 32.180225 35.628906 32.775391 C 35.523582 33.066746 34.975018 33.667661 34.283203 34.105469 C 33.591388 34.543277 32.749338 34.852514 32.4375 34.898438 C 31.499896 35.036591 30.386672 35.087027 29.164062 34.703125 C 28.316336 34.437036 27.259305 34.092596 25.890625 33.509766 C 23.114812 32.325956 20.755591 30.311513 19.070312 28.537109 C 18.227674 27.649908 17.552562 26.824019 17.072266 26.199219 C 16.592866 25.575584 16.383528 25.251054 16.208984 25.021484 L 16.207031 25.019531 C 15.897202 24.609805 14 21.970851 14 19.59375 C 14 17.077989 15.168497 16.091436 15.800781 15.410156 C 16.132721 15.052495 16.495617 15 16.642578 15 z"></path>
+                                </svg>
+                        Converse Conosco</span></a>
+                        </div>
+                       
+                    </div>
+                    <div id="popupContainer"class="popup">
+                        
+                        
+                    </div>
+                    <button id="btnFecharPopup" onclick="fecharPopup()">X</button>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </section>
+    
+    
+    <!-- Fim do banner -->
+    
+   
+
+
+    <!-- Sessão de beneficios -->
+    <section>
+        <div class="mx-5">
+            <div class="texto-container">
+              <h2 class="section-h2 my-5 justify-content-md-center" style="display: flex;" id="text-controller1">
+                O que é a Zaion?
+                <span style="color: var(--MainColor)"> </span>
+              </h2>
+          
+              <div class="row justify-content-md-center">
+                <div class="col-sm-12 col-lg-6 text-center">
+                  <p class="serasa" style="font-weight: 300; font-size: 26px;" id="text-presentation-1">
+                    Há mais de uma década, a Zaion tem se destacado no mercado como uma referência inigualável<br>
+                    em serviços de limpeza de nome.<br>
+                    Ao longo desses anos, construímos uma reputação sólida e confiável, ajudando inúmeras pessoas<br>
+                    a recuperarem o controle de suas vidas financeiras. Nossa experiência de longa data é o alicerce <br>
+                    sobre o qual construímos soluções eficazes e personalizadas para cada cliente.
+                  </p>
+                  <div class="text-center my-5">
+                    <button class="btn rounded-pill section-cta" onclick="lerMais('text-presentation-1','BtnReadMore1')" id="BtnReadMore1" ><span
+                        class="fa fa-angle-right"></span></button>
+                  </div>
+                </div>
+              </div>
+          
+              <h2 class="section-h2 my-5 justify-content-md-center" style="display: flex;" id="text-controller2">
+                <span style="color: var(--MainColor)"> Compromisso com a Qualidade e a Ética </span>
+              </h2>
+          
+              <div class="row justify-content-md-center">
+                <div class="col-sm-12 col-lg-6 text-center">
+                  <p class="serasa" style="font-weight: 300; font-size: 26px;" id="text-presentation-2">
+                    Nossos mais de 10 anos de atuação não apenas representam uma história de sucesso, mas também destacam nosso compromisso contínuo com a qualidade e a ética. Ao escolher a Zaion, você está optando por uma equipe que não apenas compreende as complexidades do processo, mas também se compromete a agir com integridade em cada interação. Nosso objetivo é ir além da simples limpeza de nome; é criar um caminho sólido para a estabilidade financeira.
+                  </p>
+                  <div class="text-center my-5">
+                    <button class="btn rounded-pill section-cta " onclick="lerMais('text-presentation-2','BtnReadMore2')" id="BtnReadMore2"><span
+                        class="fa fa-angle-right"></span></button>
+                  </div>
+                </div>
+              </div>
+          
+              <h2 class="section-h2 my-5 justify-content-md-center" style="display: flex;" id="text-controller3">
+                <span style="color: var(--MainColor)"> Evolução Constante e Atualizações Estratégicas</span>
+              </h2>
+          
+              <div class="row justify-content-md-center">
+                <div class="col-sm-12 col-lg-6 text-center">
+                  <p class="serasa" style="font-weight: 300; font-size: 26px;" id="text-presentation-3">
+                    Ao longo dos anos, a Zaion tem evoluído com as mudanças no cenário financeiro e regulatório. Investimos constantemente em atualizações estratégicas para garantir que nossos clientes se beneficiem das soluções mais eficazes e inovadoras disponíveis. Nossa capacidade de adaptação nos permite oferecer um serviço que não apenas atende às suas necessidades imediatas, mas também antecipa os desafios futuros.
+                  </p>
+                  <div class="text-center my-5">
+                    <button class="btn rounded-pill section-cta" onclick="lerMais('text-presentation-3','BtnReadMore3')" id="BtnReadMore3"><span
+                        class="fa fa-angle-right"></span></button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+            <!-- <div class="pets">
+                <div class="lista-de-imagens row">
+                    <h2>Há mais de uma década, a Zaion tem se destacado no mercado como uma referência inigualável<br>
+                         em serviços de limpeza de nome.<br>
+                         Ao longo desses anos, construímos uma reputação sólida e confiável, ajudando inúmeras pessoas<br>
+                         a recuperarem o controle de suas vidas financeiras. Nossa experiência de longa data é o alicerce <br>
+                         sobre o qual construímos soluções eficazes e personalizadas para cada cliente.</h2>
+                </div>
+            </div> -->
+
+            <!-- <div class="text-center my-5">
+                <a href="#selection-10" class="btn rounded-pill section-cta">Veja todos nossos ofertas<span
+                        class="fa fa-angle-right"></span></a>
+            </div> -->
+                </div>
+        </div>
+    </section>
+    <!-- Fim da sessão -->
+
+    <!-- Seção prova social -->
+
+    <section>
+        <div class="mx-5">
+            <div class="texto-container">
+              <h2 class="section-h2 my-5 justify-content-md-center" style="display: flex;">
+                Nossos Clientes garantem ....
+                <span style="color: var(--MainColor)"> </span>
+              </h2>
+          
+              <div class="button-slide-controller" style="display: flex; justify-content: center;margin: 5%;">
+                <button class="w3-button w3-black w3-display-left"style="color: #fff!important;
+                background-color: #000!important;" onclick="plusDivs(-1)">&#10094;</button>
+                  <button class="w3-button w3-black w3-display-right " style="color: #fff!important;
+                  background-color: #000!important;" onclick="plusDivs(1)">&#10095;</button>
+                </div>
+    
+            <div class="w3-content w3-display-container" style="display: flex; justify-content: center;">
+                <img class="mySlides" src="/src/img/WhatsApp Image 2023-12-19 at 19.50.10.jpeg" style="width:50%;">
+                <img class="mySlides" src="/src/img/WhatsApp Image 2023-12-19 at 19.50.11 (1).jpeg" style="width:50%">
+                <img class="mySlides" src="/src/img/WhatsApp Image 2023-12-19 at 19.50.11.jpeg" style="width:50%">
+                <img class="mySlides" src="src/img/WhatsApp Image 2023-12-19 at 19.50.12.jpeg" style="width:50%">
+              
+                
+              </div>
+             
+              <script>
+              var slideIndex = 1;
+              showDivs(slideIndex);
+              
+              function plusDivs(n) {
+                showDivs(slideIndex += n);
+              }
+              
+              function showDivs(n) {
+                var i;
+                var x = document.getElementsByClassName("mySlides");
+                if (n > x.length) {slideIndex = 1}
+                if (n < 1) {slideIndex = x.length}
+                for (i = 0; i < x.length; i++) {
+                  x[i].style.display = "none";  
+                }
+                x[slideIndex-1].style.display = "block";  
+              }
+              </script>
+    
+    </section>
+
+
+    <!-- Sessão beneficios -->
+    <section class="mx-5 d-flex flex-column justify-content-center align-items-center">
+        <h2 class="section-h2 my-5">E o resto? Nós nos encarregamos<span style="color: var(--MainColor)"></span>.</h2>
+        <div class="row justify-content-md-center">
+            <div class="card col-xl-3 col-lg-5 col-sm-12 col-md-12 mx-3">
+                <img src="src/img/lampada.svg" class="img">
+                <div class="textBox">
+                    <p class="text head">Possibilidade Legal</p>
+                    <p class="text price">a Lei nº 4.595 do Código do Consumidor estabelece diretrizes que, quando aplicadas corretamente, possibilitam a limpeza do nome, mesmo em casos em que as dívidas não foram integralmente quitadas. Este é um direito assegurado pela legislação.</p>
+                </div>
+            </div>
+            <div class="card col-xl-3 col-lg-5 col-sm-12 col-md-12 mx-3">
+                <img src="src/img/banco.svg" class="img">
+                <div class="textBox">
+                    <p class="text head">A Importância da Regularização</p>
+                    <p class="text price"> Na Zaion, entendemos a importância de agir dentro dos limites legais, e nossa equipe se compromete a conduzir todo o processo com transparência e em conformidade com a legislação vigente.</p>
+                </div>
+            </div>
+            <div class="card col-xl-3 col-lg-10 col-sm-12 col-md-12 mx-3">
+                <img src="src/img/documento.svg" class="img">
+                <div class="textBox">
+                    <p class="text head">Eficácia em Prazos Curtos</p>
+                    <p class="text price">Em até 15 dias úteis, trabalharemos incansavelmente para eliminar as barreiras que impedem seu acesso a um crédito saudável e a novas oportunidades.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Fim da sessão beneficios -->
+
+    <!-- Sessão adicional -->
+    <section class="mb-100 mt-100">
+        <div class="promo-img cover pt-100 pb-100" style="background-image: url(src/img/bg1.jpg)">
+            <div class="row justify-content-md-center" id="selection-10">
+                <div class="col-sm-12 col-lg-6 text-center">
+                    <h2 class="section-h2">
+                        Quer tornar o seu nome limpo em 2024?
+                    </h2>
+                    <!-- <p class="text-light">
+                       <span class="texto1"> Dívidas na faixa de 10 a 30 mil reais não precisam ser um fardo eterno. Nossa abordagem eficiente e respeitosa das leis do consumidor brasileiras promete limpar seu nome em até 15 dias úteis. Recupere sua liberdade financeira hoje mesmo!
+                       </span></p> -->
+
+                       <h2 class="section-h4" style="margin: 4%;">
+                        Para você que tem acima de 5 mil reais negativado, clique aqui e converse diretamente conosco
+                    </h2>
+                    <div class="mt-4 mt-md-5">
+                        <a href="https://wa.me/message/IOUMZNRVCXMRO1" class="btn rounded-pill section-cta">
+                            <i class="fab fa-whatsapp"></i> Limpe seu nome aqui <span class="fa fa-angle-right"></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Fim da sessão adicional -->
+
+    <!-- Sessão adicional -->
+    <!-- <section class="mb-100 mt-100">
+        <div class="promo-img cover pt-100 pb-100" style="background-image: url(src/img/bg1.jpg)">
+            <div class="row justify-content-md-center">
+                <div class="col-sm-12 col-lg-6 text-center" id="selection-30"> -->
+                    <!-- <h2 class="section-h2">
+                        Titulo 2
+                    </h2> -->
+                    <!-- <p class="text-light">
+                        <span class="texto1">Dívidas mais expressivas exigem soluções eficazes. Oferecemos um caminho claro para limpar seu nome em até 15 dias úteis, respeitando sempre as leis do consumidor brasileiras. Não deixe que dívidas significativas controlem seu futuro. Clique para iniciar sua jornada rumo à estabilidade financeira!
+                    
+                    
+
+                    </span></p> -->
+
+                    <!-- <h2 class="section-h4" style="margin: 4%;">
+                        Para você que tem de 30 a 50 mil reais negativados, clique aqui e converse diretamente conosco
+                    </h2>
+                    <div class="mt-4 mt-md-5">
+                        <a href="https://wa.me/message/Q55JGXH5L5NGK1" class="btn rounded-pill section-cta">
+                            <i class="fab fa-whatsapp"></i> Limpe seu nome aqui <span class="fa fa-angle-right"></span>
+                        </a>
+                    </div> -->
+
+                    
+                <!-- </div>
+            </div>
+        </div>
+    </section> -->
+    <!-- Fim da sessão adicional -->
+
+    <!-- Rodapé -->
+    <!-- <footer class="site-footer style-1 mt-100" id="footer" style="background-image: url(src/img/bg10.png)">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <h5 class="footer-title">
+                        Parcerias
+                    </h5>
+                    <div class="col">
+                        <div class="widget widget_about">
+                            <p>
+                                Zaion Tech
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="widget widget_about">
+                            <p>
+                                Zaion Parcerias
+                            </p>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        </footer> 
+         Fim do rodapé de baixo -->
+    
+    <footer class="end1">
+        <div class="footer">
+        <div class="row">
+        <!-- <a href="#"><i class="fa fa-facebook"></i></a> -->
+        <a href="https://www.instagram.com/zaionsoluctions?igsh=dmYxczduYXQwbXlz"><i class="fa fa-instagram"></i></a>
+        <!-- <a href="#"><i class="fa fa-youtube"></i></a>
+        <a href="#"><i class="fa fa-twitter"></i></a> -->
+        </div>
+        
+        <div class="row">
+        <ul>
+        <!-- <li><a href="#">Contate-nos</a></li> -->
+        <li><a href="#selection-10">Serviços</a></li>
+        <li><a href="/privacy.html">Privacidade</a></li>
+        <li><a href="/terms.html">Termos e Condições</a></li>
+        <!-- <li><a href="#">Career</a></li> -->
+        </ul>
+        </div>
+        
+        <div class="row">
+        Zaion Soluções Copyright © 2023 - Todos os Direitos Reservados || Designed by : <a href="https://github.com/belforz" class="github-space" style="padding: 0.5%;">belforz</a> 
+        </div>
+        </div>
+        </footer>
+    <!-- Fim do rodapé -->
+
+    <script src="src/js/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="src/js/jsprincipal.js"></script>
+    <script src="src/js/multi-animated-counter.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    
+    
+    
+</body>
+
+</html>
