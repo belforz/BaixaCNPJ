@@ -1,0 +1,17 @@
+.html 
+{
+background-color: #0000 !important;
+
+}
+
+h1 {
+    font-size: 200%;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.937);
+    letter-spacing: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 0.3s;
+  }
+  
+  
