@@ -179,3 +179,27 @@
     )
   })()
 }())
+
+// Array of video paths
+const videoPaths = [
+  "./src/video/Video 1.wmv",
+  "./src/video/Video 2.wmv",
+  
+];
+
+console.log("video", videoPaths)
+
+// Function to play video based on index
+function playVideo(index) {
+  // Create a new video element
+  console.log(index)
+  const video = document.createElement("video");
+  video.controls = true;
+  // Set the src attribute based on the index
+  video.src = videoPaths[index];
+  // Add the video to the document body or a specific container
+  document.body.appendChild(video);
+}
+
+
+
